@@ -99,7 +99,8 @@ body, html {
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
+  margin-left: 350px;
+  margin-top: 30px;
   font-family: 'Prompt',sans-serif;
 }
 
